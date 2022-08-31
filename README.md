@@ -4,8 +4,8 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvedora Front-end.
-- 🎓 &nbsp; Em constante aprendizado.
+- 🖥️ &nbsp; Desenvolvedora Front-end.
+- 📚 &nbsp; Em constante aprendizado.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 ---
 
