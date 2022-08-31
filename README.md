@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Angelina Julia!</strong>
 
-> Sou uma dev em formação e no ínicio da carreira.
+> Sou desenvolvedora front-end.
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
