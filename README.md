@@ -4,8 +4,8 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando e aprendendo sobre TI.
-- 🎓 &nbsp; Estudando **Programação** no Code Club.
+- 🤔 &nbsp; Desenvolvedora Front-end.
+- 🎓 &nbsp; Em constante aprendizado.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 ---
 
