@@ -6,7 +6,7 @@
 
 - 🖥️ &nbsp; Desenvolvedora Front-end.
 - 📚 &nbsp; Em constante aprendizado.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
+- 🌱 &nbsp; Aprendendo sobre **React**.
 ---
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
