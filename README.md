@@ -17,6 +17,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
+[![Linkedin: Angelina Melo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/)
 <a href="https://www.instagram.com/ajuliamm/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ajuliamm/"/></a>
 </p>  
