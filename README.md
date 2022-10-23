@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Angelina Julia!</strong>
+## 💜 Olá, meu nome é <strong>Angelina Melo!</strong>
 
 > Sou desenvolvedora front-end.
 
