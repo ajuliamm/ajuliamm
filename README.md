@@ -4,7 +4,7 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🖥️ &nbsp; Desenvolvedora Front-end.
+- 🖥️ &nbsp; Estudande de Desenvolvimento Web.
 - 🌱 &nbsp; Aprendendo sobre **React**.
 ---
 
