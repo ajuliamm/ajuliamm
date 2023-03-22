@@ -1,11 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Angelina Melo!</strong>
 
-> Sou desenvolvedora front-end.
+> Sou Estudante de Desenvolvimento Web na Laboratória.
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🖥️ &nbsp; Estudande de Desenvolvimento Web.
-- 🌱 &nbsp; Aprendendo sobre **React**.
+- 🖥️ &nbsp; Estudande de Desenvolvimento Web 🌱 
 ---
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
