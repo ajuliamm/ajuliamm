@@ -1,7 +1,7 @@
 ![image](https://github.com/ajuliamm/ajuliamm/assets/93016620/783e9415-a52a-490d-97e6-941a5093960e)
 
 
-## 💜 Olá, meu nome é <strong>Angelina Melo!</strong>
+## 💛 Olá, meu nome é <strong>Angelina Melo!</strong>
 
 > 
 
