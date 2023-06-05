@@ -10,7 +10,7 @@
 - 🖥️ Desenvolvedora Web em formação 
 - 💛 Aluna da 9ª turma de desenvolvimento web da [Laboratória](https://www.laboratoria.la/br) 
 - 🌱 Aprendendo mais sobre React
-- :earth_americas: &nbsp;Me encontre no linkedin: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/)
+- :earth_americas: &nbsp;Me encontre: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/)
 ---
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
