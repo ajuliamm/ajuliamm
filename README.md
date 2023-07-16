@@ -7,9 +7,10 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🖥️ Desenvolvedora Web em formação 
-- 💛 Aluna da 9ª turma de desenvolvimento web da [Laboratória](https://www.laboratoria.la/br) 
-- 🌱 Aprendendo mais sobre React
+- 🖥️ Sou Desenvolvedora Web, apaixonada, em constante busca por desafios estimulantes que me levem a aprender e crescer. 
+- 💛 Hoje meu conhecimento é principalmente na área do frontend mas tenho como objetivo continuar me desenvolvendo para me tornar uma profissional Fullstack
+
+
 - :earth_americas: &nbsp;Me encontre: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/)
 ---
 
