@@ -11,7 +11,7 @@
 - 💛 Hoje meu conhecimento é principalmente na área do frontend mas tenho como objetivo continuar me desenvolvendo para me tornar uma profissional Fullstack
 
 
-- :earth_americas: &nbsp;Me encontre: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/)
+- :earth_americas: &nbsp;Me encontre: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/) [![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=ESRI&link=LINK-DO-SEU-LINKEDIN)](https://portfolio-angelina-melo.vercel.app/)
 ---
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
