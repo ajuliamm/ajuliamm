@@ -7,8 +7,9 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🖥️ Sou Desenvolvedora Web, apaixonada, em constante busca por desafios estimulantes que me levem a aprender e crescer. 
+- 👩‍💻 Sou Desenvolvedora Web, apaixonada, em constante busca por desafios estimulantes que me levem a aprender e crescer. 
 - 💛 Hoje meu conhecimento é principalmente na área do frontend mas tenho como objetivo continuar me desenvolvendo para me tornar uma profissional Fullstack
+- 💻 Atualmente faço Curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy.
 
 
 - :earth_americas: &nbsp;Me encontre: [![Linkedin: Angelina Melo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/angelinamelo/) [![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=ESRI&link=LINK-DO-SEU-LINKEDIN)](https://portfolio-angelina-melo.vercel.app/)
